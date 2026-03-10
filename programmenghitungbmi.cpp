@@ -35,8 +35,8 @@ int main()
 
     float bmi = hitungBMI(berat, tinggi);
 
-    cout << "BMI: " << bmi << endl;
-    cout << "Kondisi Berat Badan: " << kondisiBMI(bmi) << endl;
+    cout << "BMI Anda : " << bmi << endl;
+    cout << "Status   : " << kondisiBMI(bmi) << endl;
 
     return 0;
 }
