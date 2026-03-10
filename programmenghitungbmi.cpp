@@ -23,8 +23,7 @@ void inputData(float &berat, float &tinggi) {
     cin >> tinggi;
 }
 
-int main() {
-    float berat, tinggi;
-
-    cout << "--- Selamat Datang Mahasiswa Kelas B 2025 ---" << endl;
+int main() 
+{
+    
 }
