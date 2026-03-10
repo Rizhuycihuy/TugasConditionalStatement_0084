@@ -22,3 +22,9 @@ void inputData(float &berat, float &tinggi) {
     cout << "Masukkan tinggi badan (meter): ";
     cin >> tinggi;
 }
+
+int main() {
+    float berat, tinggi;
+
+    cout << "--- Selamat Datang Mahasiswa Kelas B 2025 ---" << endl;
+}
